@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shyam-git3377
 - 👀 I’m interested in UI/UX design 
-- 🌱 I’m currently learning full stack 
-- 💞️ I’m looking to collaborate on real time projects 
+- 🌱 I’m currently learning DEVOPS & AWS
+- 💞️ I’m looking to collaborate on real time Devops engineer 
 - 📫 How to reach me shyamsundar052855518@gmail.com
-- 😄 Pronouns: peace 😇
+- 😄 Pronouns: peace bro life jingalala😇
 - ⚡ Fun fact: learn & Earn
 
 <!---
