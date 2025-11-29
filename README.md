@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX design 
 - 🌱 I’m currently learning full stack 
 - 💞️ I’m looking to collaborate on real time projects 
-- 📫 How to reach me 6302328008
+- 📫 How to reach me shyamsundar052855518@gmail.com
 - 😄 Pronouns: peace 😇
 - ⚡ Fun fact: learn & Earn
 
