@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm shyam sundar</h1>
 <h3 align="center">Motivated and detail-oriented DevOps & AWS fresher with a strong foundation in cloud computing, CI/CD pipelines, automation, and infrastructure management. Skilled in using AWS services, Linux, Git, Docker, and basic deployment workflows. Alongside technical DevOps skills, experienced in Figma for UI/UX design, creating high-quality prototypes and mockups for web and mobile applications. Also familiar with Blender for designing gaming-style 3D models and architectural visualizations. Eager to apply a blend of cloud engineering, automation, UI/UX visualization, and 3D creative design to contribute effectively in dynamic, tech-driven teams. Committed to continuous learning and delivering clean, reliable, and user-focused solutions</h3>
 
-<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/shyam-sundar-7b7a32394/"><img width="178" height="148" alt="image" src="https://github.com/user-attachments/assets/8e8ca5db-5a95-4610-b669-d2a6d6d6e083" />
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/shyam-sundar-7b7a32394/"><img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/8e8ca5db-5a95-4610-b669-d2a6d6d6e083" />
  </a></h3>
 <p align="left">
 </p>
