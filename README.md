@@ -2,8 +2,8 @@
 - 👀 I’m interested in UI/UX design 
 - 🌱 I’m currently learning DEVOPS & AWS
 - 💞️ I’m looking to collaborate on real time Devops engineer 
-- 📫 How to reach me shyamsundar052855518@gmail.com
-- 😄 Pronouns: peace bro life jingalala😇
+- 📫 How to contact me : shyamsundar052855518@gmail.com
+- 😄 quote : peace bro life jingalala😇
 - ⚡ Fun fact: learn & Earn
 
 <!---
