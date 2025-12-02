@@ -1,10 +1,10 @@
 - 👋 Hi, I’m shyam sundar
 - 👀 I’m interested in UI/UX design 
-- 🌱 I’m currently learning DEVOPS & AWS
+- 🌱 I’m currently learning DEVOPS with AWS
 - 💞️ I’m looking to collaborate on real time Devops engineer 
 - 📫 How to contact me : shyamsundar052855518@gmail.com
 - 😄 quote : peace bro life jingalala😇
-- ⚡ Fun fact: learn & Earn
+- ⚡ Fun fact : learn & Earn
 
 <!---
 shyam-git3377/shyam-git3377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
